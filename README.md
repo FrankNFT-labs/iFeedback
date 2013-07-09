@@ -20,4 +20,4 @@ Anytime the user to sends a feedback e-mail, the e-mail will automatically inclu
 * Screen resolution
 * Device orientation
 
-The Framwork will also ask the User to enter a rating and an optional topic for the feedback.
+The Framework will also ask the User to enter a rating and an optional topic for the feedback.
