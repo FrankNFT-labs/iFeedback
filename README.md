@@ -1,7 +1,7 @@
 iFeedback
 =========
 
-Launch customer support e-mails directly from your app, pre-filled with critical information. 
+Send customer support e-mails directly from your app, pre-filled with essential information. 
 
 Do you ever receive user feedback from customers that lack details? "App doesn't work" or "App crashes, fix it please!"
 
@@ -19,3 +19,5 @@ Anytime the user to sends a feedback e-mail, the e-mail will automatically inclu
 * Carrier (e.g. AT&T)
 * Screen resolution
 * Device orientation
+
+The Framwork will also ask the User to enter a rating and an optional topic for the feedback.
