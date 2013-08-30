@@ -21,3 +21,8 @@ Anytime the user to sends a feedback e-mail, the e-mail will automatically inclu
 * Device orientation
 
 The Framework will also ask the User to enter a rating and an optional topic for the feedback.
+
+## Requirements
+
+* iOS 6 or later.
+* ARC memory management.
