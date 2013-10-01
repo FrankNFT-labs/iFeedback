@@ -16,6 +16,7 @@ Anytime the user to sends a feedback e-mail, the e-mail will automatically inclu
 * iOS version
 * User's language
 * User's country code
+* User's time zone
 * Carrier (e.g. AT&T)
 * Screen resolution
 * Device orientation
