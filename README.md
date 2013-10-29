@@ -27,3 +27,11 @@ The Framework will also ask the User to enter a rating and an optional topic for
 
 * iOS 6 or later.
 * ARC memory management.
+* 
+
+## Capabilities
+* The framework will alow for multiple feedback categories
+* * Bug report
+* * Feature request
+* * ...
+* Each categories can have it's on recieving recipient.
