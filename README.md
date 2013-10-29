@@ -31,7 +31,8 @@ The Framework will also ask the User to enter a rating and an optional topic for
 
 ## Capabilities
 * The framework will alow for multiple feedback categories
-- Bug report
-- Feature request
-- ...
+1. Bug report
+2. Feature request
+3. ...
+4. Other
 * Each categorie can have it's on recieving recipient.
