@@ -27,7 +27,8 @@ The Framework will also ask the User to enter a rating and an optional topic for
 
 * iOS 6 or later.
 * ARC memory management.
-* 
+* Xcode 5 or higher
+* Apple LLVM compiler
 
 ## Capabilities
 * The framework will alow for multiple feedback categories
